@@ -13,6 +13,9 @@ export class MainPageComponent {
             power: 1000
         }, {
             name: 'Goku',
-            power: 9.500
+            power: 9500
+        },{
+            name: 'Vegeta',
+            power: 7500
         }];
 }
