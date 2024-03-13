@@ -1,4 +1,4 @@
-import { NgModule } from '@angular/core';
+import { NgModule, ɵisBoundToModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 
@@ -25,3 +25,4 @@ import { CharacterComponent } from './components/character/character.component';
   ]
 })
 export class DbzModule { }
+
